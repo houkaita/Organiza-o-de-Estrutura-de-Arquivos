@@ -1,0 +1,23 @@
+Exercicio 3
+
+r : 
+Abre um arquivo para leitura.
+
+w:
+Cria um arquivo vazio para escrever, caso haja um arquivo com o mesmo nome os dados do arquivo são apagados e poderá ser reescrito.
+
+a:
+Associa o conteúdo de um arquvio existente a um novo conteúdo que pode ser escrito, a partir do final do conteúdo do arquivo que já existia.
+Caso não exista o arquivo é criado.
+
+r+:
+Abre um arquivo para leitura e escrita, esse arquivo tem que existir.
+
+w+:
+Cria um arquvio para leitura e escrita.
+
+r+b:
+Abre um arquvio binário para leitura e escrita.
+
+rb:
+Abre um arquivo binário para leitura.
